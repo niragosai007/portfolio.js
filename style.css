@@ -1,0 +1,116 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: rgb(201, 223, 223);
+    
+}
+#hello{
+    text-align: center;
+    margin: 20px;
+    color: #aa1879;;
+    font-size: 30px;
+}
+#name{
+    text-align: center;
+    margin: 10px;
+    font-size: 30px;
+    font-weight: 300;
+    font-style: italic;
+    color:#aa1879;
+}
+#main{
+    text-align:center;
+    color: blue;
+    font-style: italic;
+    font-weight: 300;
+    padding: 10px;
+}
+#skill{
+    text-align: center;
+    text-align: center;
+    margin: 20px;
+    color: #aa1879;;
+    font-size: 15px;
+}
+#skill-name1{
+   text-align:center;
+   color: blue;
+   font-style: italic;
+   font-weight: 300;
+    padding: 10px;
+}
+#skill-name2{
+    text-align:center;
+    color: blue;
+    font-style: italic;
+    font-weight: 300;
+     padding: 10px;
+ }
+
+ #skill-name3{
+    text-align:center;
+    color: blue;
+    font-style: italic;
+    font-weight: 300;
+     padding: 10px;
+ }
+
+ #skill-name4{
+    text-align:center;
+    color: blue;
+    font-style: italic;
+    font-weight: 300;
+     padding: 10px;
+ }
+ #about{
+    text-align: center;
+    text-align: center;
+    margin: 20px;
+    color: #aa1879;;
+    font-size: 30px;
+ }
+ #about-1{
+    text-align: center;
+    margin: 20px;
+    color: #aa3a18;
+    font-size: 25px;
+    font-style: italic;
+ }
+ #about-2{
+    text-align: center;
+    margin: 20px;
+    color: blue;
+    font-size: 20px;
+    font-style: italic;
+ }
+ #dynamic{
+    text-align: center;
+    text-align: center;
+    margin: 20px;
+    color: #aa3a18;
+    font-size: 25px;
+ }
+ #dynamic1{
+    text-align: center;
+    margin: 20px;
+    color: blue;
+    font-size: 20px;
+    font-style: italic;
+ }
+ #contect{
+    text-align: center;
+    text-align: center;
+    margin: 20px;
+    color: #aa3a18;
+    font-size: 25px;
+ }
+ #contect1{
+    text-align: center;
+    margin: 20px;
+    color: blue;
+    font-size: 20px;
+    font-style: italic;
+ }
+ 
